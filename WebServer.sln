@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServer", "WebServer\WebServer.csproj", "{D8790C90-9A0F-4FAF-BD54-78296E8A058A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpServerLibrary", "HttpServerLibrary\HttpServerLibrary.csproj", "{94B019CE-9EE3-4345-B6F2-B311EC8D9AFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateEngine", "TemplateEngine\TemplateEngine.csproj", "{3D64AD8C-7843-45C6-86D1-0A2AB1A0AD24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateEngine.UnitTests", "TemplateEngine.UnitTests\TemplateEngine.UnitTests.csproj", "{EBD4B607-66E1-43DD-887F-9999C8A7E390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrmLibrary", "OrmLibrary\OrmLibrary.csproj", "{7EDD260B-1079-46C9-8BC3-BDC8112210C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrmLibrary.UnitTests", "OrmLibrary.UnitTests\OrmLibrary.UnitTests.csproj", "{5EACC3E7-76A5-42DF-A881-BBC2C6BEBD79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8790C90-9A0F-4FAF-BD54-78296E8A058A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8790C90-9A0F-4FAF-BD54-78296E8A058A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8790C90-9A0F-4FAF-BD54-78296E8A058A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8790C90-9A0F-4FAF-BD54-78296E8A058A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94B019CE-9EE3-4345-B6F2-B311EC8D9AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B019CE-9EE3-4345-B6F2-B311EC8D9AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B019CE-9EE3-4345-B6F2-B311EC8D9AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B019CE-9EE3-4345-B6F2-B311EC8D9AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D64AD8C-7843-45C6-86D1-0A2AB1A0AD24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D64AD8C-7843-45C6-86D1-0A2AB1A0AD24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D64AD8C-7843-45C6-86D1-0A2AB1A0AD24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D64AD8C-7843-45C6-86D1-0A2AB1A0AD24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD4B607-66E1-43DD-887F-9999C8A7E390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD4B607-66E1-43DD-887F-9999C8A7E390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD4B607-66E1-43DD-887F-9999C8A7E390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD4B607-66E1-43DD-887F-9999C8A7E390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EDD260B-1079-46C9-8BC3-BDC8112210C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EDD260B-1079-46C9-8BC3-BDC8112210C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EDD260B-1079-46C9-8BC3-BDC8112210C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EDD260B-1079-46C9-8BC3-BDC8112210C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EACC3E7-76A5-42DF-A881-BBC2C6BEBD79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EACC3E7-76A5-42DF-A881-BBC2C6BEBD79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EACC3E7-76A5-42DF-A881-BBC2C6BEBD79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EACC3E7-76A5-42DF-A881-BBC2C6BEBD79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CE8776B-EC7D-40E4-83F4-FB513FF2D5B3}
+	EndGlobalSection
+EndGlobal

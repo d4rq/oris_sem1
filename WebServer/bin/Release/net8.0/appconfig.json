@@ -1,0 +1,16 @@
+{
+  "FILE_NAME": "appconfig.json",
+  "Domain": "localhost",
+  "Port": 8888,
+  "StaticDirectoryPath": "public/",
+  "SmtpClient": {
+    "Host": "smtp.mail.ru",
+    "Port": 587,
+    "EnableSSL": true
+  },
+  "NetworkCredential": {
+    "UserName": "lagodykk@mail.ru",
+    "Password": "qxayqNe4Sm47jta05tjU"
+  }
+}
+

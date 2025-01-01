@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\d4rq\\source\\repos\\WebServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8790C90-9A0F-4FAF-BD54-78296E8A058A}|WebServer\\WebServer.csproj|c:\\users\\d4rq\\source\\repos\\webserver\\webserver\\endpoints\\authendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8790C90-9A0F-4FAF-BD54-78296E8A058A}|WebServer\\WebServer.csproj|solutionrelative:webserver\\endpoints\\authendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8790C90-9A0F-4FAF-BD54-78296E8A058A}|WebServer\\WebServer.csproj|c:\\users\\d4rq\\source\\repos\\webserver\\webserver\\endpoints\\userendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8790C90-9A0F-4FAF-BD54-78296E8A058A}|WebServer\\WebServer.csproj|solutionrelative:webserver\\endpoints\\userendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8790C90-9A0F-4FAF-BD54-78296E8A058A}|WebServer\\WebServer.csproj|c:\\users\\d4rq\\source\\repos\\webserver\\webserver\\endpoints\\dashboardendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8790C90-9A0F-4FAF-BD54-78296E8A058A}|WebServer\\WebServer.csproj|solutionrelative:webserver\\endpoints\\dashboardendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8790C90-9A0F-4FAF-BD54-78296E8A058A}|WebServer\\WebServer.csproj|c:\\users\\d4rq\\source\\repos\\webserver\\webserver\\templates\\pages\\dashboard\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8790C90-9A0F-4FAF-BD54-78296E8A058A}|WebServer\\WebServer.csproj|solutionrelative:webserver\\templates\\pages\\dashboard\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8790C90-9A0F-4FAF-BD54-78296E8A058A}|WebServer\\WebServer.csproj|c:\\users\\d4rq\\source\\repos\\webserver\\webserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8790C90-9A0F-4FAF-BD54-78296E8A058A}|WebServer\\WebServer.csproj|solutionrelative:webserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8790C90-9A0F-4FAF-BD54-78296E8A058A}|WebServer\\WebServer.csproj|c:\\users\\d4rq\\source\\repos\\webserver\\webserver\\appconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8790C90-9A0F-4FAF-BD54-78296E8A058A}|WebServer\\WebServer.csproj|solutionrelative:webserver\\appconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDD260B-1079-46C9-8BC3-BDC8112210C3}|OrmLibrary\\OrmLibrary.csproj|c:\\users\\d4rq\\source\\repos\\webserver\\ormlibrary\\ormcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDD260B-1079-46C9-8BC3-BDC8112210C3}|OrmLibrary\\OrmLibrary.csproj|solutionrelative:ormlibrary\\ormcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\d4rq\\source\\repos\\WebServer\\WebServer\\Templates\\Pages\\Dashboard\\index.html",
+              "RelativeDocumentMoniker": "WebServer\\Templates\\Pages\\Dashboard\\index.html",
+              "ToolTip": "C:\\Users\\d4rq\\source\\repos\\WebServer\\WebServer\\Templates\\Pages\\Dashboard\\index.html",
+              "RelativeToolTip": "WebServer\\Templates\\Pages\\Dashboard\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-10T06:24:22.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\d4rq\\source\\repos\\WebServer\\WebServer\\Endpoints\\DashboardEndpoint.cs",
+              "RelativeDocumentMoniker": "WebServer\\Endpoints\\DashboardEndpoint.cs",
+              "ToolTip": "C:\\Users\\d4rq\\source\\repos\\WebServer\\WebServer\\Endpoints\\DashboardEndpoint.cs",
+              "RelativeToolTip": "WebServer\\Endpoints\\DashboardEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:13:59.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\d4rq\\source\\repos\\WebServer\\WebServer\\Program.cs",
+              "RelativeDocumentMoniker": "WebServer\\Program.cs",
+              "ToolTip": "C:\\Users\\d4rq\\source\\repos\\WebServer\\WebServer\\Program.cs",
+              "RelativeToolTip": "WebServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:09:27.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appconfig.json",
+              "DocumentMoniker": "C:\\Users\\d4rq\\source\\repos\\WebServer\\WebServer\\appconfig.json",
+              "RelativeDocumentMoniker": "WebServer\\appconfig.json",
+              "ToolTip": "C:\\Users\\d4rq\\source\\repos\\WebServer\\WebServer\\appconfig.json",
+              "RelativeToolTip": "WebServer\\appconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T05:12:32.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\d4rq\\source\\repos\\WebServer\\WebServer\\Endpoints\\AuthEndpoint.cs",
+              "RelativeDocumentMoniker": "WebServer\\Endpoints\\AuthEndpoint.cs",
+              "ToolTip": "C:\\Users\\d4rq\\source\\repos\\WebServer\\WebServer\\Endpoints\\AuthEndpoint.cs*",
+              "RelativeToolTip": "WebServer\\Endpoints\\AuthEndpoint.cs*",
+              "ViewState": "AgIAAAsAAADgzMzMzAwswBgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T07:42:28.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ORMContext.cs",
+              "DocumentMoniker": "C:\\Users\\d4rq\\source\\repos\\WebServer\\OrmLibrary\\ORMContext.cs",
+              "RelativeDocumentMoniker": "OrmLibrary\\ORMContext.cs",
+              "ToolTip": "C:\\Users\\d4rq\\source\\repos\\WebServer\\OrmLibrary\\ORMContext.cs",
+              "RelativeToolTip": "OrmLibrary\\ORMContext.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAF0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:38:30.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\d4rq\\source\\repos\\WebServer\\WebServer\\Endpoints\\UserEndpoint.cs",
+              "RelativeDocumentMoniker": "WebServer\\Endpoints\\UserEndpoint.cs",
+              "ToolTip": "C:\\Users\\d4rq\\source\\repos\\WebServer\\WebServer\\Endpoints\\UserEndpoint.cs",
+              "RelativeToolTip": "WebServer\\Endpoints\\UserEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:44:03.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
