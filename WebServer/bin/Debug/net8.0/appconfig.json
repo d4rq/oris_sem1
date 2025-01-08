@@ -1,8 +1,8 @@
 {
   "FILE_NAME": "appconfig.json",
-  "Domain": "localhost",
+  "Domain": "+",
   "Port": 8888,
-  "StaticDirectoryPath": "public1/",
+  "StaticDirectoryPath": "zonafilm/",
   "SmtpClient": {
     "Host": "smtp.mail.ru",
     "Port": 587,

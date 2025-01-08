@@ -1004,11 +1004,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\d4rq\\source\\repos\\WebServer\\TemplateEngine.UnitTests\\TemplateEngine.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\d4rq\\oris_sem1\\TemplateEngine.UnitTests\\TemplateEngine.UnitTests.csproj",
       "projectName": "TemplateEngine.UnitTests",
-      "projectPath": "C:\\Users\\d4rq\\source\\repos\\WebServer\\TemplateEngine.UnitTests\\TemplateEngine.UnitTests.csproj",
+      "projectPath": "C:\\Users\\d4rq\\oris_sem1\\TemplateEngine.UnitTests\\TemplateEngine.UnitTests.csproj",
       "packagesPath": "C:\\Users\\d4rq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\d4rq\\source\\repos\\WebServer\\TemplateEngine.UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\d4rq\\oris_sem1\\TemplateEngine.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "fallbackFolders": [
@@ -1030,8 +1030,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\d4rq\\source\\repos\\WebServer\\TemplateEngine\\TemplateEngine.csproj": {
-              "projectPath": "C:\\Users\\d4rq\\source\\repos\\WebServer\\TemplateEngine\\TemplateEngine.csproj"
+            "C:\\Users\\d4rq\\oris_sem1\\TemplateEngine\\TemplateEngine.csproj": {
+              "projectPath": "C:\\Users\\d4rq\\oris_sem1\\TemplateEngine\\TemplateEngine.csproj"
             }
           }
         }

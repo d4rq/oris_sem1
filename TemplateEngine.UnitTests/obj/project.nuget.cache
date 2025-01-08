@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y86LDEDSI3Y=",
+  "dgSpecHash": "hFXS5GN9/x8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\d4rq\\source\\repos\\WebServer\\TemplateEngine.UnitTests\\TemplateEngine.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\d4rq\\oris_sem1\\TemplateEngine.UnitTests\\TemplateEngine.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\d4rq\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\d4rq\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

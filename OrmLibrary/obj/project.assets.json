@@ -1854,11 +1854,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\d4rq\\source\\repos\\WebServer\\OrmLibrary\\OrmLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\d4rq\\oris_sem1\\OrmLibrary\\OrmLibrary.csproj",
       "projectName": "OrmLibrary",
-      "projectPath": "C:\\Users\\d4rq\\source\\repos\\WebServer\\OrmLibrary\\OrmLibrary.csproj",
+      "projectPath": "C:\\Users\\d4rq\\oris_sem1\\OrmLibrary\\OrmLibrary.csproj",
       "packagesPath": "C:\\Users\\d4rq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\d4rq\\source\\repos\\WebServer\\OrmLibrary\\obj\\",
+      "outputPath": "C:\\Users\\d4rq\\oris_sem1\\OrmLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "fallbackFolders": [

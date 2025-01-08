@@ -5,10 +5,10 @@ namespace WebServer.Endpoints
 {
     internal class TestEndpoint : EndpointBase
     {
-        [Get("wow")]
-        public void Wow(string hello)
+        [Get("test")]
+        public void Wow()
         {
-            Console.WriteLine(hello);
+            Console.WriteLine("hello");
         }
     }
 }

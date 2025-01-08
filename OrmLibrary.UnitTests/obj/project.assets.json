@@ -2889,11 +2889,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\d4rq\\source\\repos\\WebServer\\OrmLibrary.UnitTests\\OrmLibrary.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\d4rq\\oris_sem1\\OrmLibrary.UnitTests\\OrmLibrary.UnitTests.csproj",
       "projectName": "OrmLibrary.UnitTests",
-      "projectPath": "C:\\Users\\d4rq\\source\\repos\\WebServer\\OrmLibrary.UnitTests\\OrmLibrary.UnitTests.csproj",
+      "projectPath": "C:\\Users\\d4rq\\oris_sem1\\OrmLibrary.UnitTests\\OrmLibrary.UnitTests.csproj",
       "packagesPath": "C:\\Users\\d4rq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\d4rq\\source\\repos\\WebServer\\OrmLibrary.UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\d4rq\\oris_sem1\\OrmLibrary.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "fallbackFolders": [
@@ -2915,8 +2915,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\d4rq\\source\\repos\\WebServer\\OrmLibrary\\OrmLibrary.csproj": {
-              "projectPath": "C:\\Users\\d4rq\\source\\repos\\WebServer\\OrmLibrary\\OrmLibrary.csproj"
+            "C:\\Users\\d4rq\\oris_sem1\\OrmLibrary\\OrmLibrary.csproj": {
+              "projectPath": "C:\\Users\\d4rq\\oris_sem1\\OrmLibrary\\OrmLibrary.csproj"
             }
           }
         }

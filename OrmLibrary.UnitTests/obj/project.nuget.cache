@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lFR+NTjiaXA=",
+  "dgSpecHash": "9V0Zbp5pgvY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\d4rq\\source\\repos\\WebServer\\OrmLibrary.UnitTests\\OrmLibrary.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\d4rq\\oris_sem1\\OrmLibrary.UnitTests\\OrmLibrary.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\d4rq\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\d4rq\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

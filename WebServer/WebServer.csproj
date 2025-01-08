@@ -5,32 +5,17 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
 
 	<ItemGroup>
 		<None Update="appconfig.json">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</None>
-		<None Update="Templates\Pages\Auth\signin.html">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-		</None>
-		<None Update="public\**">
+		<None Update="zonafilm\**">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
-		</None>
-		<None Update="public1\**">
-			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
-		</None>
-		<None Update="Templates\**">
-			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
-		</None>
-		<None Update="Templates\Pages\Auth\signup.html">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</None>
 	</ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="public\js\" />
-  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="System.Data.SqlClient" Version="4.9.0" />
@@ -40,6 +25,12 @@
     <ProjectReference Include="..\HttpServerLibrary\HttpServerLibrary.csproj" />
     <ProjectReference Include="..\OrmLibrary\OrmLibrary.csproj" />
     <ProjectReference Include="..\TemplateEngine\TemplateEngine.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="..\.dockerignore">
+      <Link>.dockerignore</Link>
+    </Content>
   </ItemGroup>
 
 </Project>

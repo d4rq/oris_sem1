@@ -9,3 +9,15 @@ C:\Users\d4rq\source\repos\WebServer\HttpServerLibrary\obj\Debug\net8.0\HttpServ
 C:\Users\d4rq\source\repos\WebServer\HttpServerLibrary\obj\Debug\net8.0\refint\HttpServerLibrary.dll
 C:\Users\d4rq\source\repos\WebServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.pdb
 C:\Users\d4rq\source\repos\WebServer\HttpServerLibrary\obj\Debug\net8.0\ref\HttpServerLibrary.dll
+C:\Users\d4rq\oris_sem1\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.deps.json
+C:\Users\d4rq\oris_sem1\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\d4rq\oris_sem1\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\d4rq\oris_sem1\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d4rq\oris_sem1\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfoInputs.cache
+C:\Users\d4rq\oris_sem1\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfo.cs
+C:\Users\d4rq\oris_sem1\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\d4rq\oris_sem1\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.sourcelink.json
+C:\Users\d4rq\oris_sem1\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\d4rq\oris_sem1\HttpServerLibrary\obj\Debug\net8.0\refint\HttpServerLibrary.dll
+C:\Users\d4rq\oris_sem1\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\d4rq\oris_sem1\HttpServerLibrary\obj\Debug\net8.0\ref\HttpServerLibrary.dll

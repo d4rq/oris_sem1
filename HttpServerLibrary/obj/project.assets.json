@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\d4rq\\source\\repos\\WebServer\\HttpServerLibrary\\HttpServerLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\d4rq\\oris_sem1\\HttpServerLibrary\\HttpServerLibrary.csproj",
       "projectName": "HttpServerLibrary",
-      "projectPath": "C:\\Users\\d4rq\\source\\repos\\WebServer\\HttpServerLibrary\\HttpServerLibrary.csproj",
+      "projectPath": "C:\\Users\\d4rq\\oris_sem1\\HttpServerLibrary\\HttpServerLibrary.csproj",
       "packagesPath": "C:\\Users\\d4rq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\d4rq\\source\\repos\\WebServer\\HttpServerLibrary\\obj\\",
+      "outputPath": "C:\\Users\\d4rq\\oris_sem1\\HttpServerLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "fallbackFolders": [

@@ -1905,11 +1905,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\d4rq\\source\\repos\\WebServer\\WebServer\\WebServer.csproj",
+      "projectUniqueName": "C:\\Users\\d4rq\\oris_sem1\\WebServer\\WebServer.csproj",
       "projectName": "WebServer",
-      "projectPath": "C:\\Users\\d4rq\\source\\repos\\WebServer\\WebServer\\WebServer.csproj",
+      "projectPath": "C:\\Users\\d4rq\\oris_sem1\\WebServer\\WebServer.csproj",
       "packagesPath": "C:\\Users\\d4rq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\d4rq\\source\\repos\\WebServer\\WebServer\\obj\\",
+      "outputPath": "C:\\Users\\d4rq\\oris_sem1\\WebServer\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "fallbackFolders": [
@@ -1931,14 +1931,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\d4rq\\source\\repos\\WebServer\\HttpServerLibrary\\HttpServerLibrary.csproj": {
-              "projectPath": "C:\\Users\\d4rq\\source\\repos\\WebServer\\HttpServerLibrary\\HttpServerLibrary.csproj"
+            "C:\\Users\\d4rq\\oris_sem1\\HttpServerLibrary\\HttpServerLibrary.csproj": {
+              "projectPath": "C:\\Users\\d4rq\\oris_sem1\\HttpServerLibrary\\HttpServerLibrary.csproj"
             },
-            "C:\\Users\\d4rq\\source\\repos\\WebServer\\OrmLibrary\\OrmLibrary.csproj": {
-              "projectPath": "C:\\Users\\d4rq\\source\\repos\\WebServer\\OrmLibrary\\OrmLibrary.csproj"
+            "C:\\Users\\d4rq\\oris_sem1\\OrmLibrary\\OrmLibrary.csproj": {
+              "projectPath": "C:\\Users\\d4rq\\oris_sem1\\OrmLibrary\\OrmLibrary.csproj"
             },
-            "C:\\Users\\d4rq\\source\\repos\\WebServer\\TemplateEngine\\TemplateEngine.csproj": {
-              "projectPath": "C:\\Users\\d4rq\\source\\repos\\WebServer\\TemplateEngine\\TemplateEngine.csproj"
+            "C:\\Users\\d4rq\\oris_sem1\\TemplateEngine\\TemplateEngine.csproj": {
+              "projectPath": "C:\\Users\\d4rq\\oris_sem1\\TemplateEngine\\TemplateEngine.csproj"
             }
           }
         }

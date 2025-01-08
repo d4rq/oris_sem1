@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\d4rq\\source\\repos\\WebServer\\TemplateEngine\\TemplateEngine.csproj",
+      "projectUniqueName": "C:\\Users\\d4rq\\oris_sem1\\TemplateEngine\\TemplateEngine.csproj",
       "projectName": "TemplateEngine",
-      "projectPath": "C:\\Users\\d4rq\\source\\repos\\WebServer\\TemplateEngine\\TemplateEngine.csproj",
+      "projectPath": "C:\\Users\\d4rq\\oris_sem1\\TemplateEngine\\TemplateEngine.csproj",
       "packagesPath": "C:\\Users\\d4rq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\d4rq\\source\\repos\\WebServer\\TemplateEngine\\obj\\",
+      "outputPath": "C:\\Users\\d4rq\\oris_sem1\\TemplateEngine\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "fallbackFolders": [

@@ -10,7 +10,7 @@ namespace HttpServerLibrary.Handlers
         {
             var request = context.Request; // Данные о запросе
             bool IsGet = request.HttpMethod.Equals("GET", StringComparison.InvariantCultureIgnoreCase); // Проверка запроса на метод GET
-            var absolutePath = request.Url!.AbsolutePath == "/" ? "index.html" : request.Url.AbsolutePath.Remove(0, 1); // Перенаправление с / на /html/index.html
+            var absolutePath = request.Url!.AbsolutePath == "/" ? "html/index.html" : request.Url.AbsolutePath.Remove(0, 1); // Перенаправление с / на /html/index.html
             string[] arr = absolutePath.Split("."); // Вспомогательный массив для получения сведений о пути запроса
             bool IsFile = arr.Length >= 2; // Проверка на то, запрашивает ли клиент файл
             var config = AppConfig.GetInstance(); // Вытаскиваем конфиг

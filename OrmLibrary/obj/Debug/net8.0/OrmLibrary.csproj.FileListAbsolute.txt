@@ -10,3 +10,16 @@ C:\Users\d4rq\source\repos\WebServer\OrmLibrary\obj\Debug\net8.0\OrmLibrary.dll
 C:\Users\d4rq\source\repos\WebServer\OrmLibrary\obj\Debug\net8.0\refint\OrmLibrary.dll
 C:\Users\d4rq\source\repos\WebServer\OrmLibrary\obj\Debug\net8.0\OrmLibrary.pdb
 C:\Users\d4rq\source\repos\WebServer\OrmLibrary\obj\Debug\net8.0\ref\OrmLibrary.dll
+C:\Users\d4rq\oris_sem1\OrmLibrary\bin\Debug\net8.0\OrmLibrary.deps.json
+C:\Users\d4rq\oris_sem1\OrmLibrary\bin\Debug\net8.0\OrmLibrary.dll
+C:\Users\d4rq\oris_sem1\OrmLibrary\bin\Debug\net8.0\OrmLibrary.pdb
+C:\Users\d4rq\oris_sem1\OrmLibrary\obj\Debug\net8.0\OrmLibrary.csproj.AssemblyReference.cache
+C:\Users\d4rq\oris_sem1\OrmLibrary\obj\Debug\net8.0\OrmLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d4rq\oris_sem1\OrmLibrary\obj\Debug\net8.0\OrmLibrary.AssemblyInfoInputs.cache
+C:\Users\d4rq\oris_sem1\OrmLibrary\obj\Debug\net8.0\OrmLibrary.AssemblyInfo.cs
+C:\Users\d4rq\oris_sem1\OrmLibrary\obj\Debug\net8.0\OrmLibrary.csproj.CoreCompileInputs.cache
+C:\Users\d4rq\oris_sem1\OrmLibrary\obj\Debug\net8.0\OrmLibrary.sourcelink.json
+C:\Users\d4rq\oris_sem1\OrmLibrary\obj\Debug\net8.0\OrmLibrary.dll
+C:\Users\d4rq\oris_sem1\OrmLibrary\obj\Debug\net8.0\refint\OrmLibrary.dll
+C:\Users\d4rq\oris_sem1\OrmLibrary\obj\Debug\net8.0\OrmLibrary.pdb
+C:\Users\d4rq\oris_sem1\OrmLibrary\obj\Debug\net8.0\ref\OrmLibrary.dll
