@@ -1,6 +1,6 @@
 {
   "FILE_NAME": "appconfig.json",
-  "Domain": "+",
+  "Domain": "localhost",
   "Port": 8888,
   "StaticDirectoryPath": "zonafilm/",
   "SmtpClient": {
@@ -12,6 +12,6 @@
     "UserName": "lagodykk@mail.ru",
     "Password": "qxayqNe4Sm47jta05tjU"
   },
-  "ConnectionString": "Data Source=localhost;Initial Catalog=users;User ID=sa;Password=P@ssw0rd;Trust Server Certificate=true"
+  "ConnectionString": "Data Source=localhost;Initial Catalog=zonafilm;User ID=sa;Password=P@ssw0rd;Trust Server Certificate=true"
 }
 

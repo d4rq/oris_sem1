@@ -25,7 +25,7 @@ namespace OrmLibrary
 
         public T ReadById(Guid id)
         {
-            string query = $"SELECT * FROM Users WHERE Id=@id";
+            string query = $"SELECT * FROM {typeof(T).Name}s WHERE Id=@id";
             using (var command = dbConnection.CreateCommand())
             {
                 command.CommandText = query;
@@ -46,7 +46,7 @@ namespace OrmLibrary
 
         public List<T> ReadAll()
         {
-            string query = $"SELECT * FROM Users";
+            string query = $"SELECT * FROM {typeof(T).Name}s";
 
             var result = new List<T>();
             using (var command = dbConnection.CreateCommand())

@@ -427,3 +427,14 @@ C:\Users\d4rq\oris_sem1\WebServer\obj\Debug\net8.0\refint\WebServer.dll
 C:\Users\d4rq\oris_sem1\WebServer\obj\Debug\net8.0\WebServer.pdb
 C:\Users\d4rq\oris_sem1\WebServer\obj\Debug\net8.0\WebServer.genruntimeconfig.cache
 C:\Users\d4rq\oris_sem1\WebServer\obj\Debug\net8.0\ref\WebServer.dll
+C:\Users\d4rq\oris_sem1\WebServer\bin\Debug\net8.0\zonafilm\assets\images\logo.webp
+C:\Users\d4rq\oris_sem1\WebServer\bin\Debug\net8.0\zonafilm\assets\fonts\roboto-medium.woff2
+C:\Users\d4rq\oris_sem1\WebServer\bin\Debug\net8.0\zonafilm\assets\fonts\roboto-regular.woff2
+C:\Users\d4rq\oris_sem1\WebServer\bin\Debug\net8.0\zonafilm\assets\images\favorites.png
+C:\Users\d4rq\oris_sem1\WebServer\bin\Debug\net8.0\zonafilm\assets\images\heart.png
+C:\Users\d4rq\oris_sem1\WebServer\bin\Debug\net8.0\zonafilm\assets\images\heart_red.png
+C:\Users\d4rq\oris_sem1\WebServer\bin\Debug\net8.0\zonafilm\assets\images\rutube.webp
+C:\Users\d4rq\oris_sem1\WebServer\bin\Debug\net8.0\zonafilm\assets\images\telegram.webp
+C:\Users\d4rq\oris_sem1\WebServer\bin\Debug\net8.0\zonafilm\assets\images\youtube.webp
+C:\Users\d4rq\oris_sem1\WebServer\bin\Debug\net8.0\zonafilm\assets\images\user.png
+C:\Users\d4rq\oris_sem1\WebServer\bin\Debug\net8.0\zonafilm\html\movie.html
