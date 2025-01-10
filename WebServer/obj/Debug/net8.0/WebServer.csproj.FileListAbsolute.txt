@@ -438,3 +438,7 @@ C:\Users\d4rq\oris_sem1\WebServer\bin\Debug\net8.0\zonafilm\assets\images\telegr
 C:\Users\d4rq\oris_sem1\WebServer\bin\Debug\net8.0\zonafilm\assets\images\youtube.webp
 C:\Users\d4rq\oris_sem1\WebServer\bin\Debug\net8.0\zonafilm\assets\images\user.png
 C:\Users\d4rq\oris_sem1\WebServer\bin\Debug\net8.0\zonafilm\html\movie.html
+C:\Users\d4rq\oris_sem1\WebServer\bin\Debug\net8.0\zonafilm\assets\images\imdb.png
+C:\Users\d4rq\oris_sem1\WebServer\bin\Debug\net8.0\zonafilm\assets\images\kinopoisk.png
+C:\Users\d4rq\oris_sem1\WebServer\bin\Debug\net8.0\zonafilm\assets\images\statistics.png
+C:\Users\d4rq\oris_sem1\WebServer\bin\Debug\net8.0\zonafilm\assets\images\bookmark.png

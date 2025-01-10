@@ -48,7 +48,7 @@ public static class ExpressionParser<T>
 
     internal static string BuildSqlQuery(Expression<Func<T, bool>> predicate, bool singleResult)
     {
-        var query = $"SELECT * FROM Users Where";
+        var query = $"SELECT * FROM {typeof(T).Name}s Where";
         query += ParseExpression(predicate.Body);
         return query;
     }

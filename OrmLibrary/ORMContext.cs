@@ -18,7 +18,8 @@ namespace OrmLibrary
                     command.CommandText = query;
                     AddParameters(command, entity);
                     int rowsAffected = command.ExecuteNonQuery();
-
+                    
+                    dbConnection.Close();
                     return rowsAffected > 0;
                 }
         }
@@ -60,6 +61,7 @@ namespace OrmLibrary
                         result.Add(Map(reader));
                 }
             }
+            dbConnection.Close();
             return result;
         }
 
@@ -77,9 +79,9 @@ namespace OrmLibrary
             }
         }
 
-        public int Delete(Guid id)
+        public bool Delete(int id)
         {
-            string query = "DELETE FROM Users WHERE Id=@id";
+            string query = $"DELETE FROM {typeof(T).Name}s WHERE Id=@id";
 
             using (var command = dbConnection.CreateCommand())
             {
@@ -90,7 +92,9 @@ namespace OrmLibrary
                 command.Parameters.Add(parameter);
 
                 dbConnection.Open();
-                return command.ExecuteNonQuery();
+                var result = command.ExecuteNonQuery() == 1;
+                dbConnection.Close();
+                return result;
             }
         }
 
@@ -164,9 +168,9 @@ namespace OrmLibrary
             var properties = typeof(T).GetProperties();
             if (properties == null) throw new Exception(); 
 
-            var columns = string.Join(", ", properties.Select(p => $"{p.Name}"));
-            var values = string.Join(", ", properties.Select(p => $"@{p.Name}"));
-            return $"INSERT INTO {typeof(T).Name}s ({columns}) VALUES ({values})";
+            var columns = string.Join(", ", properties.Where(p => p.Name != "Id").Select(p => $"{p.Name}"));
+            var values = string.Join(", ", properties.Where(p => p.Name != "Id").Select(p => $"@{p.Name}"));
+            return $"INSERT INTO {typeof(T).Name.ToLower()}s ({columns}) VALUES ({values})";
         }
         
         private void AddParameters(IDbCommand command, T entity)
@@ -174,6 +178,7 @@ namespace OrmLibrary
             var properties = typeof(T).GetProperties();
             foreach (var property in properties)
             {
+                if (property.Name == "Id") continue;
                 var value = property.GetValue(entity) ?? DBNull.Value;
                 var parameter = command.CreateParameter();
                 parameter.ParameterName = "@" + property.Name;
