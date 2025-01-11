@@ -1,0 +1,20 @@
+# This is a generated file. Not intended for manual editing.
+services:
+  webserver:
+    build:
+      context: "C:\\Users\\d4rq\\oris_sem1"
+      dockerfile: "WebServer/bin/Release/net8.0/publish/Dockerfile"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net8.0/WebServer.dll"
+    environment:
+      DOTNET_ENVIRONMENT: "Development"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "webserver:dev"
+    ports: []
+    volumes:
+    - "C:\\Users\\d4rq\\oris_sem1\\WebServer:/app:rw"
+    - "C:\\Users\\d4rq\\oris_sem1:/src:rw"
+    - "C:\\Users\\d4rq\\.nuget\\packages:/root/.nuget/packages"
+    working_dir: "/app"

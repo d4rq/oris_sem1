@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin</title>
+    <link rel="icon" href="/assets/images/favicon.svg">
+    <link rel="stylesheet" href="/css/style.css">
+    <script src="/js/script.js"></script>
+</head>
+<body>
+    <div class="screen">
+        <div class="header">
+            <div class="header_container gap-9">
+                <a href="/" class="nav-child">
+                    <img src="/assets/images/logo.webp" alt="ЗонаФильм">
+                </a>
+                <nav class="nav gap-9">
+                    <a class="nav-child link active-header" href="/">ФИЛЬМЫ</a>
+                    <a class="nav-child link" href="/">СЕРИАЛЫ</a>
+                    <a class="nav-child link" href="/">
+                        <div class="heart_container">
+                            <div class="heart"></div>
+                        </div>
+                    </a>
+                </nav>
+                <label for="search"></label>
+                <input id="search" type="text" class="search-input" placeholder="Поиск фильмов и сериалов">
+                <div class="socials">
+                    <a>
+                        <img alt="rutube" height="24px" width="24px" src="/assets/images/rutube.webp" class="click">
+                    </a>
+                    <a>
+                        <img alt="telegram" height="24px" width="24px" src="/assets/images/telegram.webp" class="click">
+                    </a>
+                    <a>
+                        <img alt="youtube" height="24px" width="24px" src="/assets/images/youtube.webp" class="click">
+                    </a>
+                </div>
+                <div class="profile_container click">
+                    <img height="16px" width="16px" src="/assets/images/user.png" alt="profile">
+                </div>
+            </div>
+        </div>
+        <div class="admin">
+            <form action="/add" method="post">
+                <label for="id">Введите айди для обновления фильма</label>
+                <input name="id" id="id" value="0" type="number">
+                <label for="name">Название</label>
+                <input name="name" id="name" required>
+                <label for="rating">Рейтинг</label>
+                <input name="rating" id="rating" minlength="3" maxlength="3" required pattern="[0-9][,.][0-9]">
+                <label for="preview">Превью</label>
+                <input name="preview" id="preview" required>
+                <label for="year">Год</label>
+                <input name="year" id="year" type="number" minlength="4" maxlength="4" required pattern="[0-9]{4}">
+                <label for="imdb">IMDb</label>
+                <input name="imdb" id="imdb" minlength="3" maxlength="3" required>
+                <label for="kp">KinoPoisk</label>
+                <input name="kp" id="kp" minlength="3" maxlength="3" required pattern="[0-9][,.][0-9]">
+                <label for="title">Название(ориг.)</label>
+                <input name="title" id="title" required>
+                <label for="time">Длительность</label>
+                <input name="time" id="time" required>
+                <label for="genre">Жанр</label>
+                <input name="genre" id="genre" required>
+                <label for="studio">Студия</label>
+                <input name="studio" id="studio" required>
+                <label for="age">Ограничение</label>
+                <input name="age" id="age" required>
+                <label for="director">Режиссер</label>
+                <input name="director" id="director" required>
+                <label for="release">Дата выхода</label>
+                <input name="release" id="release" type="date" required>
+                <label for="actor">Дата выхода</label>
+                <input name="actor" id="actor" required>
+                <label for="pic">Дата выхода</label>
+                <input name="pic" id="pic" required>
+                <input type="submit" value="Добавить фильм">
+            </form>
+            <form action="/delete" method="post">
+                <label for="del_id">Id</label>
+                <input name="id" id="del_id" type="number">
+                <input type="submit" value="Удалить фильм">
+            </form>
+        </div>
+    </div>
+</body>
+</html>
